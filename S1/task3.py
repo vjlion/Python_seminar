@@ -17,7 +17,7 @@ i = int(input("Введите i: "))
 j = int(input ("Введите j: "))
 if i != j :
     
-    print((i+j-1))
+    print(i+j-1)
     
 else :
     print ("Информации недостаточно")
